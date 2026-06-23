@@ -9,6 +9,7 @@ Cada skill es un experto en un tema de producto, listo para sumar a tu Sistema O
 | Skill | Qué hace |
 |---|---|
 | [`product-metric-coach`](product-metric-coach/SKILL.md) | Te guía para definir la North Star Metric de un producto y construir su Key Metric Tree (Reach, Activation, Engagement, Retention, Business-specific). |
+| [`cpo-prd-coach`](cpo-prd-coach/SKILL.md) | CPO que te entrevista para co-crear el PRD de tu producto sección por sección (problema, usuario, solución, MVP con landing y captura de leads, métricas). Delega la arquitectura técnica en tu skill de CTO. |
 
 ## Cómo usar un skill (2 modos)
 
