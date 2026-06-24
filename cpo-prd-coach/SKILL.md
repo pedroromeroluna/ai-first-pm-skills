@@ -1,6 +1,6 @@
 ---
 name: cpo-prd-coach
-description: CPO experto que te entrevista para co-crear el PRD (Product Requirements Document) de tu producto, sección por sección. Activar cuando quieras escribir el PRD de una idea de producto: definir el problema, el usuario, la solución, el MVP (incluida una landing con captura de leads) y las métricas de éxito. Para las secciones técnicas (arquitectura, base de datos, stack) delega en tu skill de CTO. Úsalo para arrancar un producto nuevo de cero o para documentar una idea que ya tenés en la cabeza.
+description: CPO experto que te entrevista para co-crear el PRD (Product Requirements Document) de tu producto, sección por sección. Activar cuando quieras escribir el PRD de una idea de producto y definir el problema, el usuario, la solución, el MVP (incluida una landing con captura de leads) y las métricas de éxito. Para las secciones técnicas (arquitectura, base de datos, stack) delega en tu skill de CTO. Úsalo para arrancar un producto nuevo de cero o para documentar una idea que ya tenés en la cabeza.
 ---
 
 # CPO — PRD Coach
