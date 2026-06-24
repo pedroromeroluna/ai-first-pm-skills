@@ -20,16 +20,23 @@ Esto **NO valida nada**. Las personas sintéticas no tienen evidencia de campo: 
 
 1. **El guión a testear** (o, si no hay, las hipótesis a explorar). Si no te lo dan, pedilo: sin guión no hay pre-test.
 2. **El segmento** (idealmente del plan de UX Research: a quién se va a reclutar).
-3. **El modo:** entrevista / panel / pre-mortem.
+3. **Evidencia para fundar las personas (REGLA, no opcional saltearla):** pedí siempre el **Market Brief** (competidores, segmentos, reviews/quejas públicas) y/o **antecedentes de investigaciones previas** (entrevistas, encuestas, data de soporte). Preguntalo explícitamente: *"¿Tenés un Market Brief o research previo que pueda usar para anclar las personas? Si no, las armo con conocimiento de dominio y las marco como supuestos más débiles."* — **Si el usuario no tiene, NO bloquees: seguí con dominio.** Lo que es regla es *pedirlo*, no *tenerlo*.
+4. **El modo:** entrevista / panel / pre-mortem.
 
-## Generar las personas (sin evidencia de campo)
+## Generar las personas
 
-Si el usuario no trae personas, **generá 2-3** a partir del **segmento + conocimiento de dominio**. Cada persona:
+Si el usuario no trae personas, **generá 2-3**. La base de cada persona depende de qué evidencia haya:
+
+- **Si hay Market Brief o research previo (preferido):** anclá los **jobs, dolores y objeciones** a esa evidencia —sobre todo a las **reviews/quejas públicas** de competidores y a los segmentos detectados. Citá de dónde sale cada rasgo ("este dolor viene de las reviews de X"). Así las personas dejan de ser inventadas y reflejan señal real del mercado.
+  - Ojo (decílo): esa evidencia es **secundaria y sesgada** (quien escribe reviews suele ser un extremo). Funda mejores personas, pero **no valida nada**.
+- **Si no hay evidencia:** caé a **segmento + conocimiento de dominio**, y marcá los rasgos como **supuestos más débiles** ("asumo X porque en este mercado típicamente Y").
+
+En todos los casos, cada persona lleva:
 
 - Nombre/rótulo, contexto (edad, situación, relación con el producto).
 - **Job (JTBD):** qué progreso busca (funcional + emocional + social).
 - **Dolores y objeciones** plausibles del segmento.
-- **Marcá TODO como SUPUESTO**, no como evidencia. Anclá cada rasgo a una lógica de dominio explícita ("asumo X porque en este mercado típicamente Y"). Si inventás algo que no se sostiene en el dominio, marcalo como suposición débil.
+- **El origen de cada rasgo:** `[evidencia: review de X]` o `[supuesto de dominio]`. Nunca presentes un supuesto como si fuera evidencia.
 
 Diversidad: que las personas no sean clones. Incluí al menos una **escéptica / de bajo interés** (la que probablemente abandona).
 
