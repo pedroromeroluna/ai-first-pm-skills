@@ -10,7 +10,8 @@ Cada skill es un experto en un tema de producto, listo para sumar a tu Sistema O
 |---|---|
 | [`product-strategy`](product-strategy/SKILL.md) | CPO de bolsillo: te entrevista para framear el problema real, la métrica a mover y las hipótesis a investigar, antes de saltar a la solución. |
 | [`market-research`](market-research/SKILL.md) | Analista de mercado: investiga competidores, tamaño de oportunidad y segmentos en la web (research secundario). Token-aware. |
-| [`ux-research`](ux-research/SKILL.md) | UX Researcher: define objetivo, segmento, método (entrevista/encuesta/shadowing…) y el guión de preguntas para investigar con usuarios reales. |
+| [`ux-research`](ux-research/SKILL.md) | UX Researcher: define objetivo, segmento, método (entrevista/encuesta/shadowing…) y el guión de preguntas con **Jobs To Be Done** para investigar con usuarios reales. |
+| [`usuarios-sinteticos`](usuarios-sinteticos/SKILL.md) | Genera usuarios sintéticos de tu segmento y pre-testea tu guión (entrevista/panel/pre-mortem) para afilar las preguntas antes de salir a campo. No valida nada, solo mejora tu guión. |
 | [`product-metric-coach`](product-metric-coach/SKILL.md) | Te guía para definir la North Star Metric de un producto y construir su Key Metric Tree (Reach, Activation, Engagement, Retention, Business-specific). |
 | [`cpo-prd-coach`](cpo-prd-coach/SKILL.md) | CPO que te entrevista para co-crear el PRD de tu producto sección por sección (problema, usuario, solución, MVP con landing y captura de leads, métricas). Delega la arquitectura técnica en tu skill de CTO. |
 
@@ -26,7 +27,9 @@ Estos skills están diseñados para **trabajar en conjunto**: cada uno termina s
      │
      ├──► market-research ─ ¿la oportunidad es grande? competidores + tamaño   (research secundario · web)
      │
-     └──► ux-research ───── ¿el problema es real para la gente? método + guión  (research primario · usuarios)
+     └──► ux-research ───── ¿el problema es real para la gente? método + guión JTBD  (research primario · usuarios)
+              │
+              └──► usuarios-sinteticos ─ pre-testeá el guión antes de campo (afila las preguntas, NO valida)
 ```
 
 > El handoff entre skills es lo que convierte tu sistema en un **squad**: no es una herramienta suelta, es un equipo de especialistas que se pasan la posta.

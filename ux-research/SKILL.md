@@ -40,13 +40,25 @@ Regla de oro: **exploratorio → cualitativo** (entrevista/observación); **dime
 
 Decí explícitamente: *"Te recomiendo [método] porque tu objetivo es [exploratorio/confirmatorio] y tu hipótesis más riesgosa es [X]."*
 
-## Paso 4 — Guión / instrumento
+## Paso 4 — Guión / instrumento (framework Jobs To Be Done)
 
-Armá las preguntas con estas reglas:
+El guión tiene que destapar el **"job"**: el progreso que la persona intenta lograr en su vida, no la feature que pide. Nadie quiere un taladro: quiere el agujero —y en realidad quiere colgar el cuadro. Tu trabajo es llegar a esa motivación profunda.
+
+Indagá las **4 dimensiones del job**:
+
+- **El job (funcional + emocional + social):** ¿qué progreso busca? ¿cómo quiere *sentirse* y cómo quiere *ser visto* por otros?
+- **El contexto / la situación:** cuándo y dónde aparece la necesidad ("cuando estoy en X y me pasa Y, necesito…"). El job vive en una situación, no en abstracto.
+- **Las fuerzas del cambio:** qué lo *empuja* a buscar algo nuevo (push del dolor actual, pull de la nueva solución) y qué lo *frena* (ansiedad ante lo nuevo, hábito/inercia de lo viejo).
+- **El criterio de éxito del usuario:** ¿cómo mide ÉL si el job quedó bien hecho? (no tus métricas, las de él).
+
+**Técnica madre:** reconstruí la **historia de la última vez** que vivió el problema (timeline real, paso a paso), no opiniones hipotéticas. Del hecho concreto subís al job; de la opinión no sacás nada.
+
+Reglas de redacción de las preguntas:
 
 - **No inductivas:** nada de "¿no te resulta molesto el checkout largo?". Preguntá "Contame la última vez que compraste algo desde el celu. ¿Qué pasó?".
-- **Abiertas y basadas en comportamiento pasado:** "contame de la última vez que…" > "¿qué harías si…?".
-- **Cada pregunta atada a una hipótesis:** si una pregunta no testea ninguna hipótesis, sacala.
+- **Sobre el job, no sobre tu solución:** "¿qué intentabas lograr?" / "¿qué hacías antes para resolverlo?" > "¿usarías esta app?".
+- **Subí del funcional al emocional:** ante cada respuesta, "¿y por qué eso era importante para vos?" hasta tocar la motivación profunda.
+- **Cada pregunta atada a una hipótesis o a una dimensión del job:** si no testea ninguna, sacala.
 - **Profundizá:** dejá lugar a "¿por qué?" y "¿qué hiciste después?".
 - En encuesta: opciones balanceadas, sin preguntas dobles, escala consistente.
 
@@ -61,8 +73,8 @@ Armá las preguntas con estas reglas:
 **Método recomendado:** [método] — porque [razón]
   (Alternativas consideradas: [...] )
 
-**Guión / preguntas:**
-1. [pregunta no inductiva] → testea hipótesis [n]
+**Guión / preguntas (JTBD):**
+1. [pregunta no inductiva] → indaga: [hipótesis n / dimensión del job: funcional · emocional · contexto · fuerzas]
 2. [...]
 ```
 
