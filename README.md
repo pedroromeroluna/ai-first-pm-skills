@@ -1,8 +1,8 @@
 # AI First PM — Skills
 
-Colección de **skills** (agentes especialistas) del curso **AI First PM** de [Product HUB](https://www.linkedin.com/company/product-hub).
+Colección de **skills** (agentes especialistas) del curso **AI First PM** de [Product HUB](https://www.producthub.com.ar/).
 
-Cada skill es un experto en un tema de producto, listo para sumar a tu Sistema Operativo de PM. Los usás para que la IA te ayude con criterio, no para que te reemplace.
+Cada skill es un experto en un tema de producto, listo para sumar a tu Sistema Operativo de PM.
 
 ## Skills disponibles
 
