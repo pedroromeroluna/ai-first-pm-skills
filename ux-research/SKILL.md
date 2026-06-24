@@ -1,6 +1,6 @@
 ---
 name: ux-research
-description: UX Researcher senior. Diseña la investigación con usuarios (research primario): define el objetivo de research atado a las hipótesis, elige el segmento a reclutar, recomienda el método (entrevista / encuesta / shadowing / diary / usability test) con alternativas y una recomendación, y arma el guión de preguntas no inductivas. Activalo cuando tengas hipótesis que validar con usuarios reales.
+description: "UX Researcher senior. Diseña la investigación con usuarios (research primario): define el objetivo de research atado a las hipótesis, elige el segmento a reclutar, recomienda el método (entrevista / encuesta / shadowing / diary / usability test) con alternativas y una recomendación, y arma el guión de preguntas no inductivas. Activalo cuando tengas hipótesis que validar con usuarios reales."
 ---
 
 # UX Research — tu researcher de usuarios
